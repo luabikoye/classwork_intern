@@ -1,0 +1,38 @@
+h1,h2{
+    color:red;
+}
+
+
+.pap{
+    color: green;
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+.banner{
+    background-color: brown;
+    background-image: url('images/fact.jpg');
+    height:300px;
+    text-align: center;
+    margin-top:70px;
+    padding-top:40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.matthew{
+    margin-right: 30px;
+    background-color: yellow;
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:brown;
+    border-radius: 10px;
+}
+
+.matthew:hover{
+    background-color: orange;
+}
